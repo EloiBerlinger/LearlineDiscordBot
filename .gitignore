@@ -1,2 +1,4 @@
 .idea
 .atom
+.env
+node_modules
